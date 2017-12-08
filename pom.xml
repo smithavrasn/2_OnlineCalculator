@@ -4,6 +4,7 @@
 	<groupId>com.online.demo</groupId>
 	<artifactId>Online-Calulator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<dependencies>
 	<dependency>
     <groupId>junit</groupId>
