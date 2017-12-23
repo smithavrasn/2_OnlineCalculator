@@ -21,7 +21,7 @@ public class CalculatorTest {
 		assertEquals(5,result);
 	}
 	public void testsub() {
-		int result=obj.sub(3,5);
+		int result=obj.sub(2,3);
 		assertEquals(1,result);
 	}
 
