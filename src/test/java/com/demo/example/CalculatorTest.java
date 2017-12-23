@@ -16,12 +16,12 @@ public class CalculatorTest {
 	}
 
 	@Test
-	public void addtest() {
+	public void testadd() {
 		int result=obj.add(2,3);
 		assertEquals(5,result);
 	}
-	public void subtest() {
-		int result=obj.add(2,3);
+	public void testsub() {
+		int result=obj.sub(3,5);
 		assertEquals(1,result);
 	}
 
